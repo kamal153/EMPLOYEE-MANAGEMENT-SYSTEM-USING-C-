@@ -1,0 +1,7 @@
+@echo off
+E:\SEM 2\1.C++\C++ MY CODE\FILE BASE
+start EMPLOYMNGMENT.h
+start EMPLOYMNGMENT.cpp
+start EMPLOYMNGMENT.exe
+start EMPLOYMNGMENT.xls
+start EMPLOYMNGMENT.cpp
